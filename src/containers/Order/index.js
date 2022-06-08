@@ -48,7 +48,7 @@ const Order = () => {
     <Container>
       <Image src={burguer} alt='People' />
 
-      <H1>Pedido!</H1>
+      <H1>Pedidos!</H1>
         <div className="container">
 
        
