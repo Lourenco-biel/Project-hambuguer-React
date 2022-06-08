@@ -12,8 +12,6 @@ Este projeto trata-se de uma app de uma hamburgueria, onde você cadastra seu pe
 
 <br>
 
-## 👨‍💻Link para acesso: 
-<a href="">Aperte aqui ⬅ </a>
 
 ## ☕ tecnologias utilizadas
 
