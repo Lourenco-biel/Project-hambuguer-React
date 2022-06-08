@@ -1,6 +1,6 @@
 # App Hamburgueria
 
-<img src="">
+<img src="./src/Assets/print.gif" alt="Gif do projeto">
 
 
 > Projeto finalizado 
@@ -30,7 +30,7 @@ Este projeto trata-se de uma app de uma hamburgueria, onde você cadastra seu pe
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./components/../src/img/Eu.jpg" width="100px;" alt="Foto do Gabriel Silva no GitHub"/><br>
+        <img src="./src/Assets/Eu.png" width="100px;" alt="Foto do Gabriel Silva no GitHub"/><br>
         <sub>
           <a >Gabriel Ibiapino</a>
         </sub>
