@@ -8,7 +8,7 @@
 
 ## 💻 Sobre o Projeto
 
-Este projeto trata-se de um app de uma hamburgueria, aonde voce pode cadastrar seu pedido e genrenciar eles, utilizei um projeto node que fiz com rotas get, post, delete que também está disponivel no meu gitHub, este projeto tem responsividade e utilizei ferramentas como Styled-componentes, axios, cors, useEfect, useState etc..
+Este projeto trata-se de uma app de uma hamburgueria, onde você cadastra seu pedido e genrencia ele! utilizei React.js, Styled-componentes para criar a interface, React Hooks (useeffect, useState, useRef) para as funcionalidades da aplicação, react-router-dom para navegação entre paginas, axios para utilizar as rotas de uma aplicação node que fiz recentemente, contendo rotas get, post, delete e outras ferramentas!
 
 <br>
 
